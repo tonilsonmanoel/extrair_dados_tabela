@@ -1,0 +1,3350 @@
+{
+    "DISPLAY_SAMSUNG-ORIGINAL_CHINA": [
+        {
+            "Nome": "A320 (A3 2017)",
+            "Preço": "100.0"
+        },
+        {
+            "Nome": "A510 (A5 2016)",
+            "Preço": "120.0"
+        },
+        {
+            "Nome": "A520 (A5 2017)",
+            "Preço": "140.0"
+        },
+        {
+            "Nome": "A605 (A6+)",
+            "Preço": "165.0"
+        },
+        {
+            "Nome": "A710 (A7 2016)",
+            "Preço": "115.0"
+        },
+        {
+            "Nome": "A720 (A7 2017)",
+            "Preço": "130.0"
+        },
+        {
+            "Nome": "A750 (A7 2018)",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "A530 (A8 2018)",
+            "Preço": "195.0"
+        },
+        {
+            "Nome": "A730 (A8+)",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A920 (A9 2018)",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "J260 (J2 CORE)",
+            "Preço": "45.0"
+        },
+        {
+            "Nome": "J250 (J2 PRO)",
+            "Preço": "120.0"
+        },
+        {
+            "Nome": "J300 /J320 (J3 15/16)",
+            "Preço": "110.0"
+        },
+        {
+            "Nome": "J400 (J4 2018)",
+            "Preço": "120.0"
+        },
+        {
+            "Nome": "J4+ / J6+ / J4 CORE",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "J510 (J5 METAL)",
+            "Preço": "120.0"
+        },
+        {
+            "Nome": "G570 (J5 PRIME)",
+            "Preço": "45.0"
+        },
+        {
+            "Nome": "J530 (J5 PRO)",
+            "Preço": "115.0"
+        },
+        {
+            "Nome": "J600 (J6 2018)",
+            "Preço": "165.0"
+        },
+        {
+            "Nome": "J700 (J7 2015)",
+            "Preço": "125.0"
+        },
+        {
+            "Nome": "J710 (J7 METAL)",
+            "Preço": "115.0"
+        },
+        {
+            "Nome": "J701 (J7 NEO)",
+            "Preço": "115.0"
+        },
+        {
+            "Nome": "G610 (J7 PRIME)",
+            "Preço": "45.0"
+        },
+        {
+            "Nome": "G611 (J7 PRIME 2)",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "J730 (J7 PRO)",
+            "Preço": "120.0"
+        },
+        {
+            "Nome": "J810 (J8 2018)",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A01 S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A01 C/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A01 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "A01 CORE S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A01 CORE C/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A01 CORE GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A02 / A12 S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A02 C/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A02 VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A02 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A02s / A03s / A03 S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A02s C/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A02S VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A02s GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "85.0"
+        },
+        {
+            "Nome": "A03 C/ARO",
+            "Preço": "65.0"
+        },
+        {
+            "Nome": "A03 VIVID C/ARO ",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "A03 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "100.0"
+        },
+        {
+            "Nome": "A03s C/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A03S VIVID C/ARO ",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "A03s GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "95.0"
+        },
+        {
+            "Nome": "A03 CORE S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A03 CORE C/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A03 CORE GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "95.0"
+        },
+        {
+            "Nome": "A04 S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A04 C/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A04 VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A04 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A04E S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A04E C/ARO",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "A04E VIVID C/ARO ",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "A04E GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "105.0"
+        },
+        {
+            "Nome": "A04S / A13 (5G) S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A04S / A13 (5G) C/ARO",
+            "Preço": "65.0"
+        },
+        {
+            "Nome": "A04S / A13 (5G) VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A04S / A13 (5G) GOLD PRIME (6 MESES DE G)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A05 S/ARO",
+            "Preço": "65.0"
+        },
+        {
+            "Nome": "A05 C/ARO",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A05 VIVID C/ARO ",
+            "Preço": "85.0"
+        },
+        {
+            "Nome": "A05 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "95.0"
+        },
+        {
+            "Nome": "A05S S/ARO",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "A05S C/ARO",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A05S VIVID C/ARO ",
+            "Preço": "100.0"
+        },
+        {
+            "Nome": "A05S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "115.0"
+        },
+        {
+            "Nome": "A06 S/ARO",
+            "Preço": "85.0"
+        },
+        {
+            "Nome": "A06 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "120.0"
+        },
+        {
+            "Nome": "A10 / M10 S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A10 / M10 C/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A10 VIVID C/ARO ",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "A10 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "85.0"
+        },
+        {
+            "Nome": "A10S S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A10S C/ARO ",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A10S VIVID C/ARO ",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "A10S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A11 S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A11 C/ARO",
+            "Preço": "65.0"
+        },
+        {
+            "Nome": "A11 VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A11 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A12 / A02 S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A12 C/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A12 VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A12 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A13 (4G) S/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A13 (4G) C/ARO",
+            "Preço": "65.0"
+        },
+        {
+            "Nome": "A13 (4G) VIVID C/ARO ",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "A13 (4G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "95.0"
+        },
+        {
+            "Nome": "A13 (5G) / A04S S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "A13 (5G) / A04S C/ARO",
+            "Preço": "65.0"
+        },
+        {
+            "Nome": "A13 (5G) / A04S VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A13 (5G) / A04S GOLD PRIME (6 MESES DE G)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A14 (4G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "105.0"
+        },
+        {
+            "Nome": "A14 (5G) S/ARO",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "A14 (5G) C/ARO",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "A14 (5G) VIVID C/ARO ",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A14 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A15 S/ARO",
+            "Preço": "160.0"
+        },
+        {
+            "Nome": "A15 C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A15 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "215.0"
+        },
+        {
+            "Nome": "A20 S/ARO ",
+            "Preço": "135.0"
+        },
+        {
+            "Nome": "A20 C/ARO ",
+            "Preço": "140.0"
+        },
+        {
+            "Nome": "A20 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A20S S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A20S C/ARO ",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A20S VIVID C/ARO ",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A20S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "95.0"
+        },
+        {
+            "Nome": "A21S S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A21S C/ARO ",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A21S VIVID C/ARO ",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "A21S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A22 (4G) C/ARO ",
+            "Preço": "145.0"
+        },
+        {
+            "Nome": "A22 (4G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "A22 (5G) S/ARO",
+            "Preço": "60.0"
+        },
+        {
+            "Nome": "A22 (5G) C/ARO",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A22 (5G) VIVID C/ARO ",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A22 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "100.0"
+        },
+        {
+            "Nome": "A23 (4G) S/ARO",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "A23 (4G) C/ARO",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A23 (4G) VIVID C/ARO ",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A23 (4G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "100.0"
+        },
+        {
+            "Nome": "A23 (5G) S/ARO",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "A23 (5G) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A23 (5G) VIVID C/ARO ",
+            "Preço": "95.0"
+        },
+        {
+            "Nome": "A23 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "105.0"
+        },
+        {
+            "Nome": "A24 / A25 / M34 (5G) S/ARO",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A24 C/ARO",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "A24 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "285.0"
+        },
+        {
+            "Nome": "A25 / A24 / M34 (5G) S/ARO",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A25 C/ARO ",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "A25 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "215.0"
+        },
+        {
+            "Nome": "A30S S/ARO",
+            "Preço": "135.0"
+        },
+        {
+            "Nome": "A30S C/ARO ",
+            "Preço": "145.0"
+        },
+        {
+            "Nome": "A30S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A30 / A50 S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A30 / A50 C/ARO",
+            "Preço": "145.0"
+        },
+        {
+            "Nome": "A30 / A50 GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A31 C/ARO ",
+            "Preço": "150.0"
+        },
+        {
+            "Nome": "A31 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "A32 (4G) C/ARO ",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A32 (4G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "180.0"
+        },
+        {
+            "Nome": "A32 (5G) S/ARO",
+            "Preço": "50.0"
+        },
+        {
+            "Nome": "A32 (5G) C/ARO",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "A32 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "A33 (5G) C/ARO",
+            "Preço": "180.0"
+        },
+        {
+            "Nome": "A33 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "205.0"
+        },
+        {
+            "Nome": "A34 (5G) BORDA GROSSA C/ARO",
+            "Preço": "180.0"
+        },
+        {
+            "Nome": "A34 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "245.0"
+        },
+        {
+            "Nome": "A35 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "305.0"
+        },
+        {
+            "Nome": "A50 / A30 S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A50 / A30 C/ARO",
+            "Preço": "145.0"
+        },
+        {
+            "Nome": "A50 / A30 GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "A50 NACIONAL C/ARO",
+            "Preço": "305.0"
+        },
+        {
+            "Nome": "A51 (BORDA GROSSA) C/ARO",
+            "Preço": "155.0"
+        },
+        {
+            "Nome": "A51 (BORDA FINA) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A51 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "210.0"
+        },
+        {
+            "Nome": "A52 / A52s (BORDA GROSSA) C/ARO ",
+            "Preço": "180.0"
+        },
+        {
+            "Nome": "A52 / A52s (BORDA FINA) C/ARO ",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A52 / A52s GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "265.0"
+        },
+        {
+            "Nome": "A53 (5G) (BORDA GROSSA) C/ARO",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "A53 (5G) (BORDA FINA) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A53 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "280.0"
+        },
+        {
+            "Nome": "A54 (5G) (BORDA GROSSA) C/ARO",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "A54 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "250.0"
+        },
+        {
+            "Nome": "A55 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "290.0"
+        },
+        {
+            "Nome": "A70 (BORDA GROSSA) C/ARO",
+            "Preço": "140.0"
+        },
+        {
+            "Nome": "A70 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A70 NACIONAL C/ARO",
+            "Preço": "480.0"
+        },
+        {
+            "Nome": "A71 (BORDA GROSSA) C/ARO",
+            "Preço": "155.0"
+        },
+        {
+            "Nome": "A71 VIVID (BORDA FINA) C/ARO",
+            "Preço": "225.0"
+        },
+        {
+            "Nome": "A71 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "255.0"
+        },
+        {
+            "Nome": "A72 (BORDA GROSSA) C/ARO",
+            "Preço": "195.0"
+        },
+        {
+            "Nome": "A72 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "245.0"
+        },
+        {
+            "Nome": "A72 NACIONAL C/ARO",
+            "Preço": "450.0"
+        },
+        {
+            "Nome": "A73 (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "280.0"
+        },
+        {
+            "Nome": "A73 (5G) NACIONAL C/ARO",
+            "Preço": "500.0"
+        },
+        {
+            "Nome": "A80 S/ARO",
+            "Preço": "300.0"
+        },
+        {
+            "Nome": "A80 NACIONAL C/ARO",
+            "Preço": "400.0"
+        },
+        {
+            "Nome": "M12 S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "M12 C/ARO",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "M12 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "M13 S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "M13 C/ARO",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "M13 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "M14 (5G) S/ARO",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "M14 (4G) C/ARO",
+            "Preço": "90.0"
+        },
+        {
+            "Nome": "M14 (5G) GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "105.0"
+        },
+        {
+            "Nome": "M15 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M20 S/ARO",
+            "Preço": "55.0"
+        },
+        {
+            "Nome": "M20 C/ARO",
+            "Preço": "70.0"
+        },
+        {
+            "Nome": "M20 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "80.0"
+        },
+        {
+            "Nome": "M22 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "155.0"
+        },
+        {
+            "Nome": "M23 / M33 S/ARO",
+            "Preço": "75.0"
+        },
+        {
+            "Nome": "M23 / M33 C/ARO",
+            "Preço": "85.0"
+        },
+        {
+            "Nome": "M23 / M33 GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "110.0"
+        },
+        {
+            "Nome": "M30 / M31 / M21S S/ARO",
+            "Preço": "145.0"
+        },
+        {
+            "Nome": "M30 / M31 / M21S C/ARO",
+            "Preço": "150.0"
+        },
+        {
+            "Nome": "M30 / M31 / M21s GOLD PRIME (6 MESES)",
+            "Preço": "175.0"
+        },
+        {
+            "Nome": "M32 C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M32 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "185.0"
+        },
+        {
+            "Nome": "M32 NACIONAL C/ARO",
+            "Preço": "340.0"
+        },
+        {
+            "Nome": "M34 (5G) / A24 / A25 S/ARO",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "M34 (5G) GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "270.0"
+        },
+        {
+            "Nome": "M51 (BORDA GROSSA) S/ARO",
+            "Preço": "170.0"
+        },
+        {
+            "Nome": "M51 (BORDA GROSSA) C/ARO",
+            "Preço": "190.0"
+        },
+        {
+            "Nome": "M51 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "280.0"
+        },
+        {
+            "Nome": "M51 NACIONAL C/ARO",
+            "Preço": "450.0"
+        },
+        {
+            "Nome": "M52 (5G) / M53 (5G) (BORDA GROSSA) \nS/ARO",
+            "Preço": "180.0"
+        },
+        {
+            "Nome": "M52 (5G) (BORDA GROSSA) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M52 (5G) (BORDA FINA) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M52 (5G) GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "265.0"
+        },
+        {
+            "Nome": "M53 (5G) (BORDA GROSSA) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M53 (5G) (BORDA FINA) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M53 (5G) GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "290.0"
+        },
+        {
+            "Nome": "M54 (5G) GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "280.0"
+        },
+        {
+            "Nome": "M55 (5G) GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "350.0"
+        },
+        {
+            "Nome": "M62 (BORDA GROSSA) C/ARO",
+            "Preço": "150.0"
+        },
+        {
+            "Nome": "M62 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "230.0"
+        },
+        {
+            "Nome": "S7 S/ARO",
+            "Preço": "200.0"
+        },
+        {
+            "Nome": "S8 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "460.0"
+        },
+        {
+            "Nome": "S8+ GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "545.0"
+        },
+        {
+            "Nome": "S9 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S9 NACIONAL C/ARO",
+            "Preço": "575.0"
+        },
+        {
+            "Nome": "S9+ GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "545.0"
+        },
+        {
+            "Nome": "S10 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "900.0"
+        },
+        {
+            "Nome": "S10E GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "545.0"
+        },
+        {
+            "Nome": "S10+ GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "1060.0"
+        },
+        {
+            "Nome": "S20 FE C/ARO (AZUL) (BORDA FINA)",
+            "Preço": "210.0"
+        },
+        {
+            "Nome": "S20 FE GOLD PRIME (AZUL / PRATA /\nROSA) (6 MESES DE GARANTIA)",
+            "Preço": "220.0"
+        },
+        {
+            "Nome": "S20 FE GOLD PRIME (VERMELHO) (6 MESES\nDE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S20 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S20+ GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "605.0"
+        },
+        {
+            "Nome": "S20+ NACIONAL C/ARO",
+            "Preço": "1500.0"
+        },
+        {
+            "Nome": "S20 ULTRA GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S21 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S21+ GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "640.0"
+        },
+        {
+            "Nome": "S21 ULTRA GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S21 FE C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S21 FE GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "965.0"
+        },
+        {
+            "Nome": "S22+ GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "720.0"
+        },
+        {
+            "Nome": "S22 ULTRA C/ARO",
+            "Preço": "780.0"
+        },
+        {
+            "Nome": "S22 ULTRA GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "845.0"
+        },
+        {
+            "Nome": "S23 ULTRA C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S23 ULTRA GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S23 FE NACIONAL C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S23 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "820.0"
+        },
+        {
+            "Nome": "S23 NACIONAL C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "S23+ GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "720.0"
+        },
+        {
+            "Nome": "S23+ NACIONAL C/ARO",
+            "Preço": "1140.0"
+        },
+        {
+            "Nome": "S24 ULTRA GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "1120.0"
+        }
+    ],
+    "DISPLAY_XIAOMI": [
+        {
+            "Nome": "MI PLAY S/ARO",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "MI A1 / 5X S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "MI A2 / 6X S/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "MI A2 LITE S/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "MI A3 INCELL S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "MI A3 INCELL C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "MI A3 VIVID INCELL C/ARO",
+            "Preço": "R$ 115,00"
+        },
+        {
+            "Nome": "MI A3 ORI S/ARO",
+            "Preço": "R$ 160,00"
+        },
+        {
+            "Nome": "MI A3 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 235,00"
+        },
+        {
+            "Nome": "MI 8 ORI S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "MI 8 LITE S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "MI 8 LITE C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "MI 8 LITE GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "MI 9 INCELL S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "MI 9 ORI S/ARO",
+            "Preço": "R$ 145,00"
+        },
+        {
+            "Nome": "MI 9 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 220,00"
+        },
+        {
+            "Nome": "MI 9SE INCELL S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "MI 9SE ORI S/ARO",
+            "Preço": "R$ 255,00"
+        },
+        {
+            "Nome": "MI 9 LITE INCELL S/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "MI 9 LITE ORI S/ARO",
+            "Preço": "R$ 130,00"
+        },
+        {
+            "Nome": "MI 9 LITE GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 195,00"
+        },
+        {
+            "Nome": "MI 9T / MI 9T PRO INCELL S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "MI 9T / MI 9T PRO ORI S/ARO",
+            "Preço": "R$ 220,00"
+        },
+        {
+            "Nome": "MI 9T / MI 9T PRO GOLD PRIME (6 MESES)",
+            "Preço": "R$ 300,00"
+        },
+        {
+            "Nome": "MI 10 LITE INCELL S/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "MI 10 LITE ORI S/ARO",
+            "Preço": "R$ 180,00"
+        },
+        {
+            "Nome": "MI 10 LITE GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 215,00"
+        },
+        {
+            "Nome": "MI 10T / MI 10T PRO S/ARO",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "MI 10T / MI 10T PRO GOLD PRIME (6 MESES)",
+            "Preço": "R$ 180,00"
+        },
+        {
+            "Nome": "MI NOTE 10 LITE / MI NOTE 10 / MI NOTE 10 PRO ORI S/ARO (CURVADA)",
+            "Preço": "R$ 270,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "MI 11 LITE INCELL S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "MI 11 LITE ORI S/ARO",
+            "Preço": "R$ 265,00"
+        },
+        {
+            "Nome": "MI 11 LITE ORI C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "MI 11 LITE GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 315,00"
+        },
+        {
+            "Nome": "MI 11T / MI 11T PRO INCELL S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "MI 11T / MI 11T PRO GOLD PRIME (6 MESES)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "MI 12 LITE (5G) INCELL S/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "MI 12 LITE (5G) ORI S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "MI 12T / MI 12T PRO ORI S/ARO",
+            "Preço": "R$ 255,00"
+        },
+        {
+            "Nome": "REDMI S2 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "REDMI A1 / A1 PLUS / A2 / A2 PLUS / POCO C50 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI A1 / A1 PLUS / A2 / A2 PLUS /POCO C50 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI A1 / A1 PLUS / A2 / A2 PLUS / POCO C50 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "90"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI A3 / REDMI A3X S/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "REDMI A3 GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "REDMI 4A S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "REDMI 5A S/ARO",
+            "Preço": "R$ 40,00"
+        },
+        {
+            "Nome": "REDMI 6A S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI 7A S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "REDMI 7A C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "REDMI 7A GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "REDMI 7 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "REDMI 7 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "REDMI 8 / REDMI 8A S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "REDMI 8 / REDMI 8A C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "REDMI 8 / 8A GOLD PRIME (6 MESES )",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "REDMI 9A / 9C / 9i / 10A / POCO C3 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "REDMI 9A / 9C / 9i / 10A / POCO C3 C/ARO ",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "REDMI 9A / 9C / 9i / 10A / POCO C3 VIVID C/ARO ",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI 9A / 9C / 9i / 10A / POCO C3 / C31 GOLD PRIME   (6 MESES DE GARANTIA)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI 9 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "REDMI 9 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "REDMI 9 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "REDMI 9T / POCO M3 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "REDMI 9T / POCO M3 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "REDMI 9T / POCO M3 VIVID C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "REDMI 9T / POCO M3 GOLD PRIME (6 MESES)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "REDMI 10C / POCO C40 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "REDMI 10C / POCO C40 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "REDMI 10C/POCO C40 GOLD PRIME (6 MESES)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "REDMI 10 / REDMI 10 PRIME S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "REDMI 10 C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "REDMI 10 GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "REDMI 12 / REDMI 13 / POCO M6 PRO (5G) S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI 12 / REDMI 13 / POCO M6 PRO (5G) C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI 12 / REDMI 13 / M6 PRO (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 130,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "REDMI 12C / POCO C55 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "REDMI 12C / POCO C55 C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "REDMI 12C / POCO C55 VIVID C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "REDMI 12C/POCO C55 GOLD PRIME (6 MESES)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "REDMI 13C / POCO C65 S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "REDMI 13C / POCO C65 C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "REDMI 13C / POCO C65 VIVID C/ARO",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "REDMI 13C/ POCO C65 GOLD PRIME (6 MESES)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "REDMI 14C / POCO C75 S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "REDMI 14C/POCO C75 GOLD PRIME (6 MESES)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "POCOFONE F1 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "POCOFONE F1 GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "POCO F3 / POCO F4 INCELL S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "POCO F3 / POCO F4 ORI S/ARO",
+            "Preço": "R$ 225,00"
+        },
+        {
+            "Nome": "POCO F3 GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 265,00"
+        },
+        {
+            "Nome": "POCO F5 (5G) GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 300,00"
+        },
+        {
+            "Nome": "POCO F5 (5G) NACIONAL S/ARO",
+            "Preço": "R$ 350,00"
+        },
+        {
+            "Nome": "POCO X3 / X3 PRO / MI 10T LITE (5G) S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "POCO X3 / X3 PRO C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "POCO X3 / X3 PRO GOLD PRIME (6 MESES)",
+            "Preço": "R$ 135,00"
+        },
+        {
+            "Nome": "POCO X3 GT S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "POCO X3 GT C/ARO",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "POCO X3 GT GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 115,00"
+        },
+        {
+            "Nome": "POCO X4 GT S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "POCO X4 GT GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 165,00"
+        },
+        {
+            "Nome": "POCO M5/POCO M4 (5G)/REDMI 10(5G) / REDMI 11 PRIME S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "POCO M5/POCO M4 (5G)/REDMI 10(5G) / REDMI 11 PRIME C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "POCO M5 / POCO M4 (5G) / REDMI 10 (5G) / REDMI 11 PRIME GOLD PRIME  (6 MESES DE GARANTIA)",
+            "Preço": "105"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 3 S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "NOTE 5 / NOTE 5 PRO S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "NOTE 5 PLUS / REDMI 5 PLUS S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "NOTE 6 / NOTE 6 PRO S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "NOTE 6 PRO GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "NOTE 7 / NOTE 7 PRO S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "NOTE 7 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "NOTE 7 GOLD PRIME (P) (6 MESES DE G)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "NOTE 8 S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "NOTE 8 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "NOTE 8 GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "NOTE 8 PRO S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "NOTE 8 PRO C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "NOTE 8 PRO GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "NOTE 8T S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "NOTE 8T C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "NOTE 8T GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "NOTE 9 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "NOTE 9 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "NOTE 9 VIVID C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "NOTE 9 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "NOTE 9s / NOTE 9 PRO S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "NOTE 9s / NOTE 9 PRO C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "NOTE 9s / NOTE 9 PRO GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 (4G) / NOTE 10s / POCO M5s INCELL S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 (4G) / NOTE 10s / POCO M5s INCELL C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE (4G)/ NOTE 10s / POCO M5s VIVID INCELL C/ARO",
+            "Preço": "90"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 (4G) / NOTE 10s / POCO M5s ORI S/ARO",
+            "Preço": "R$ 150,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 (4G) / NOTE 10s / POCO M5s ORI C/ARO",
+            "Preço": "R$ 165,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 (4G) / NOTE 10s / POCO M5s GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 185,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 (5G) / POCO M3 PRO (5G) S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "NOTE 10 (5G) / POCO M3 PRO (5G) C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "NOTE 10 (5G) / POCO M3 PRO (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 PRO / NOTE 10 PRO MAX / NOTE 11 PRO (4G)(5G) / NOTE 11 PRO PLUS (5G) / NOTE 12 PRO (4G) / POCO X4 PRO (5G) INCELL S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": " NOTE 10 PRO / NOTE 10 PRO MAX                                                  \nINCELL C/ARO",
+            "Preço": "90"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 PRO / NOTE 10 PRO MAX VIVID INCELL C/ARO",
+            "Preço": "R$ 125,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 PRO (4G)(5G) / NOTE 12 PRO (4G) / POCO X4 PRO (5G) VIVID INCELL C/ARO",
+            "Preço": "R$ 125,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 PRO / NOTE 10 PRO MAX / NOTE 11 PRO (4G/5G) / NOTE 11 PRO PLUS (5G) /  NOTE 12 PRO (4G) / POCO X4 PRO (5G) ORI S/ARO",
+            "Preço": "R$ 220,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 PRO / NOTE 10 PRO MAX ORI C/ARO",
+            "Preço": "R$ 225,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 10 PRO / NOTE 10 PRO MAX GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 240,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 PRO (4G/5G) / NOTE 12 PRO (4G) / POCO X4 PRO (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 250,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (4G) / NOTE 11s / POCO M4 PRO (4G) INCELL S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (4G) / NOTE 11s / POCO M4 PRO (4G) INCELL C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (4G) / NOTE 11s / POCO M4 PRO (4G) VIVID INCELL C/ARO",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (4G) / NOTE 11s / NOTE 12s / POCO M4 PRO (4G) ORI S/ARO",
+            "Preço": "R$ 170,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (4G) / NOTE 11s / NOTE 12s / POCO M4 PRO (4G) ORI C/ARO",
+            "Preço": "R$ 185,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (4G) / NOTE 11s / NOTE 12s / POCO M4 PRO (4G) GOLD PRIME (6 MESES)",
+            "Preço": "R$ 210,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (5G) / NOTE 11S (5G) / NOTE 11T (5G) / POCO M4 PRO (5G) S/A",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (5G) / NOTE 11S (5G) / NOTE 11T (5G) / POCO M4 PRO (5G) C/A",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 11 (5G) / NOTE 11S (5G) / NOTE 11T (5G) / POCO M4 PRO (5G) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 135,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 12 (4G) / NOTE 12 (5G) / POCO X5 \n(5G) INCELL S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "NOTE 12 (4G) INCELL C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "NOTE 12 (4G) VIVID INCELL C/ARO",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "NOTE 12 (5G) / POCO X5 (5G)\nINCELL C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 12 (5G) / POCO X5 (5G)\nVIVID INCELL C/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "NOTE 12 (4G) / NOTE 12 (5G) / POCO X5 \n(5G) ORI S/ARO",
+            "Preço": "R$ 195,00"
+        },
+        {
+            "Nome": "NOTE 12 (4G) GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 250,00"
+        },
+        {
+            "Nome": "NOTE 12 (5G) / POCO X5 (5G)\nGOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 260,00"
+        },
+        {
+            "Nome": "NOTE 12 PRO (5G) / POCO X5 PRO (5G)\nINCELL S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "NOTE 12 PRO (5G) / POCO X5 PRO (5G)\nVIVID INCELL C/ARO",
+            "Preço": "R$ 135,00"
+        },
+        {
+            "Nome": "NOTE 12 PRO (5G) / POCO X5 PRO (5G)\nORI S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 12 PRO (5G) / POCO X5 PRO (5G)\nGOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 260,00"
+        },
+        {
+            "Nome": "NOTE 12 PRO (5G) NACIONAL C/ARO",
+            "Preço": "R$ 300,00"
+        },
+        {
+            "Nome": "NOTE 13 (5G) INCELL S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "NOTE 13 (5G) GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 420,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO (5G) / POCO X6 (5G) / POCO\nX6 PRO (5G) INCELL S/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO (5G) / POCO X6 (5G) / POCO\nX6 PRO (5G) ORI S/ARO",
+            "Preço": "R$ 390,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO (5G)\nGOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 13 (4G) INCELL S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "NOTE 13 (4G) ORI S/ARO",
+            "Preço": "R$ 225,00"
+        },
+        {
+            "Nome": "NOTE 13 (4G) GOLD PRIME (PRETO) \n(6 MESES DE GARANTIA)",
+            "Preço": "R$ 305,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO (4G) / POCO M6 PRO (4G)\nINCELL S/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO (4G) / POCO M6 PRO (4G)\nVIVID INCELL C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "NOTE 13 PRO (4G) / POCO M6 PRO (4G)\nORI S/ARO",
+            "Preço": "R$ 435,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO (4G) / POCO M6 PRO (4G)\nGOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 605,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO PLUS (5G) VIVID INCELL\nC/ARO",
+            "Preço": "R$ 200,00"
+        },
+        {
+            "Nome": "NOTE 13 PRO PLUS (5G) ORI S/ARO",
+            "Preço": "Indisponível"
+        }
+    ],
+    "IPHONE": [
+        {
+            "Nome": "5G",
+            "Preço": "R$ 40,00"
+        },
+        {
+            "Nome": "5s / 5SE ",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "6G",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "6G GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "6 PLUS",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "6s",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "6s GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "6s PLUS",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "6s PLUS GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "7G",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "7G GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "7 PLUS",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "7 PLUS GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "8G / SE (2020)",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "8G / SE (2020) GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "8 PLUS",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "8 PLUS GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "X INCELL",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "X VIVID INCELL",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "X OLED",
+            "Preço": "R$ 155,00"
+        },
+        {
+            "Nome": "X GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 190,00"
+        },
+        {
+            "Nome": "XR ",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "XR GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "XS INCELL",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "XS VIVID INCELL",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "XS OLED",
+            "Preço": "R$ 160,00"
+        },
+        {
+            "Nome": "XS GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 205,00"
+        },
+        {
+            "Nome": "XS MAX INCELL",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "XS MAX VIVID INCELL (JK)",
+            "Preço": "R$ 130,00"
+        },
+        {
+            "Nome": "XS MAX OLED",
+            "Preço": "R$ 205,00"
+        },
+        {
+            "Nome": "XS MAX GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 235,00"
+        },
+        {
+            "Nome": 11,
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "11 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "11 PRO INCELL",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "11 PRO VIVID INCELL",
+            "Preço": "R$ 130,00"
+        },
+        {
+            "Nome": "11 PRO OLED",
+            "Preço": "R$ 200,00"
+        },
+        {
+            "Nome": "11 PRO GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 220,00"
+        },
+        {
+            "Nome": "11 PRO MAX INCELL",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "11 PRO MAX VIVID INCELL (JK)",
+            "Preço": "R$ 135,00"
+        },
+        {
+            "Nome": "11 PRO MAX OLED",
+            "Preço": "R$ 225,00"
+        },
+        {
+            "Nome": "11 PRO MAX GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 255,00"
+        },
+        {
+            "Nome": "12 / 12 PRO INCELL",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "12 / 12 PRO VIVID INCELL",
+            "Preço": "R$ 145,00"
+        },
+        {
+            "Nome": "12 / 12 PRO OLED",
+            "Preço": "R$ 235,00"
+        },
+        {
+            "Nome": "12 / 12 PRO GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 265,00"
+        },
+        {
+            "Nome": "12 PRO MAX INCELL",
+            "Preço": "R$ 125,00"
+        },
+        {
+            "Nome": "12 PRO MAX VIVID INCELL",
+            "Preço": "R$ 195,00"
+        },
+        {
+            "Nome": "12 PRO MAX OLED (TROCA EEPROM)",
+            "Preço": "R$ 355,00"
+        },
+        {
+            "Nome": "12 PRO MAX GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 480,00"
+        },
+        {
+            "Nome": "12 MINI VIVID INCELL (JK)",
+            "Preço": "R$ 210,00"
+        },
+        {
+            "Nome": "12 MINI GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 310,00"
+        },
+        {
+            "Nome": "13 VIVID INCELL",
+            "Preço": "R$ 200,00"
+        },
+        {
+            "Nome": "13 OLED",
+            "Preço": "R$ 290,00"
+        },
+        {
+            "Nome": "13 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 315,00"
+        },
+        {
+            "Nome": "13 PRO GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 1.580,00"
+        },
+        {
+            "Nome": "13 PRO MAX INCELL",
+            "Preço": "R$ 310,00"
+        },
+        {
+            "Nome": "13 PRO MAX VIVID INCELL",
+            "Preço": "R$ 385,00"
+        },
+        {
+            "Nome": "13 PRO MAX OLED (TROCA EEPROM)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "13 PRO MAX GOLD PRIME (6 MESES)",
+            "Preço": "R$ 680,00"
+        },
+        {
+            "Nome": "14 VIVID INCELL (JK)",
+            "Preço": "R$ 220,00"
+        },
+        {
+            "Nome": "14 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 330,00"
+        },
+        {
+            "Nome": "14 PRO VIVID INCELL",
+            "Preço": "R$ 360,00"
+        },
+        {
+            "Nome": "14 PRO GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 795,00"
+        },
+        {
+            "Nome": "14 PRO MAX INCELL",
+            "Preço": "R$ 350,00"
+        },
+        {
+            "Nome": "14 PRO MAX VIVID INCELL",
+            "Preço": "R$ 460,00"
+        },
+        {
+            "Nome": "14 PRO MAX OLED (TROCA EEPROM)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "14 PRO MAX GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 1.250,00"
+        },
+        {
+            "Nome": "14 PLUS VIVID INCELL (JK)",
+            "Preço": "R$ 270,00"
+        },
+        {
+            "Nome": "15 VIVID INCELL (JK)",
+            "Preço": "R$ 320,00"
+        },
+        {
+            "Nome": "15 PRO VIVID INCELL (JK)",
+            "Preço": "R$ 380,00"
+        },
+        {
+            "Nome": "15 PRO OLED (TROCA EEPROM)",
+            "Preço": "R$ 1.045,00"
+        },
+        {
+            "Nome": "15 PRO MAX VIVID INCELL",
+            "Preço": "R$ 600,00"
+        },
+        {
+            "Nome": "15 PRO MAX OLED (TROCA EEPROM)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "15 PRO MAX GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 1.380,00"
+        }
+    ],
+    "LG": [
+        {
+            "Nome": "X STYLE (K200) C/ARO",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "X POWER (K220) C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K4-17 (X230) C/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "K8-16 (K350) C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "K8-17 (X240) C/ARO",
+            "Preço": "R$ 40,00"
+        },
+        {
+            "Nome": "K8-18 (X210) C/ARO",
+            "Preço": "R$ 40,00"
+        },
+        {
+            "Nome": "K8+ (X120) C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "K9 (X210) C/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "K10 C/TV (K430) C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K10-17 (M250) C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K10 PRO (M400) C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "K10 POWER (M320) C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K11+ (X410) S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "K11+ (X410) C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "K12 MAX (X520) K12 PRIME (X525) S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K12 MAX / K12 PRIME C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "K12 MAX /K12 PRIME GOLD PRIME (6 MESES)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "K12 / K12+ (X420) S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "K12+ C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K12 / K12+ GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "K22 / K22+ (K200) S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K22 / K22+ C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K22 / K22+ GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "K40S (X430) S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "K40S C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K40S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "K41S (K410) S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K41S C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "K41S VIVID C/ARO ",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "K41S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "K50S (X540) S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K50S C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K50S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "K51S (K510) S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K51S C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K51S GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "K61 (Q630) S/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "K61 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K61 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "K42 / K52 / K62 / K62+ (K420) S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K42 / K52 C/ARO ",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K42 / K52 VIVID C/ARO ",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "K42 / K52 GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "K62 / K62+ C/ARO ",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "K62 / K62+ GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 110,00"
+        }
+    ],
+    "MOROTOLA": [
+        {
+            "Nome": "MOTO C S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "Z PLAY ORI S/ARO",
+            "Preço": "R$ 120,00"
+        },
+        {
+            "Nome": "Z2 PLAY ORI S/ARO",
+            "Preço": "R$ 120,00"
+        },
+        {
+            "Nome": "Z3 PLAY ORI S/ARO",
+            "Preço": "R$ 175,00"
+        },
+        {
+            "Nome": "E4 S/ARO",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "E4 PLUS S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "E5 PLAY S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "E5 PLUS S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "E6s / E6i S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "E6s C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "E6s VIVID C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "E6s GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "E6i C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "E6i VIVID C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "E6i GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "E6 PLAY S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "E6 PLAY C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "E6 PLAY GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "E6 PLUS S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "E6 PLUS C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "E6 PLUS GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "E7 / E7 POWER S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "E7 C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "E7 VIVID C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "E7 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "E7 POWER C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "E7 POWER VIVID C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "E7 POWER GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "E13 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "E13 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "E13 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "E14 / G04 / G04S / G24 / G24 POWER S/ARO",
+            "Preço": "60"
+        },
+        {
+            "Nome": "E20 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "E20 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "E20 VIVID C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "E20 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "E22 / E22i S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "E22 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "E22 VIVID C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "E22 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "E32 / E22S S/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "E32 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "E32 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "E40 / E30 S/ARO ",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "E40 C/ARO ",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "E40 VIVID C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "E40 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "G1 C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "G5 S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G5 PLUS S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G5s S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G5s PLUS S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G6 S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "G6 PLAY / E5 S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G6 PLAY / E5 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "G6 PLAY / E5 GOLD PRIME (PRETO /DOURADO) (6 MESES DE GARANTIA)",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "G6 PLUS S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "G7 PLAY S/ARO",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "G7 PLAY C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "G7 PLAY GOLD PRIME (AZUL / DOURADO) (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "G7 / G7 PLUS S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "G7 POWER S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G7 POWER C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "G7 POWER GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "G8 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "G8 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "G8 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "G8 PLAY/ ONE MACRO S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G8 PLAY / ONE MACRO C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "G8 PLAY VIVID C/ARO (PRETO)",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "G8 PLAY GOLD PRIME (PRETO /VERMELHO) (6 MESES DE GARANTIA)",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "G8 PLUS S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "G8 PLUS C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "G8 PLUS GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 130,00"
+        },
+        {
+            "Nome": "G8 POWER S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "G8 POWER C/ARO",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "G8 POWER GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 130,00"
+        },
+        {
+            "Nome": "G8 POWER LITE S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "G8 POWER LITE C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "G8 POWER LITE VIVID C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "G8 POWER LITE GOLD PRIME (6 MESES DE G)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "G9 PLAY / E7 PLUS S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "G9 PLAY / E7 PLUS C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "G9 PLAY / E7 PLUS VIVID C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "G9 PLAY / E7 PLUS GOLD PRIME (6 MESES)",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "G9 PLUS S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "G9 PLUS C/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "G9 PLUS GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 115,00"
+        },
+        {
+            "Nome": "G9 POWER S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "G9 POWER C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "G9 POWER VIVID C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "G9 POWER GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "G04 / G04S / G24 / G24 POWER / E14 S/ARO",
+            "Preço": "60"
+        },
+        {
+            "Nome": "G04 / G04S C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "G04 / G04S GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "R$ 105,00"
+        }
+    ],
+    "Samsung_Incell": [
+        {
+            "Nome": "A15 S/ARO",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "A15 C/ARO",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "A15 VIVID C/ARO",
+            "Preço": "R$ 120,00"
+        },
+        {
+            "Nome": "A20 S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "A20 C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "A20 VIVID C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "A22 (4G) S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "A22 (4G) C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "A22 (4G) VIVID C/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "A24 / A25 / M34 (5G) S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "A24 C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A24 VIVID C/ARO",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "A25 / A24 / M34 (5G) S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "A25 C/ARO",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "A30S S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "A30S C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "A30S VIVID C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "A30 / A50 S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "A30 / A50 C/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "A30 / A50 VIVID C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "A31 C/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "A31 VIVID C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "A32 (4G) C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "A32 (4G) VIVID C/ARO",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "A33 (5G) VIVID C/ARO",
+            "Preço": "R$ 105,00"
+        },
+        {
+            "Nome": "A34 (5G) S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "A34 (5G) C/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "A35 (5G) S/ARO",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "A51 S/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "A51 C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "A51 VIVID C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A52 / A52S C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "A53 (5G) C/ARO",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "A53 (5G) VIVID C/ARO",
+            "Preço": "R$ 140,00"
+        },
+        {
+            "Nome": "A70 C/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "A70 VIVID BORDA FINA C/ARO",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "A71 C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "A71 VIVID BORDA FINA C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A72 S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "A72 C/ARO",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "A72 VIVID C/ARO",
+            "Preço": "R$ 135,00"
+        },
+        {
+            "Nome": "A605 (A6+)",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "A750 (A7 2018)",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "A530 (A8 2018)",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "A730 (A8+)",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "J120 (J1 2016)",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "J250 (J2 PRO)",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "J300 / J320 (J3 2015-2016)",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "J400 (J4 2018)",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "J500 (J5 2015)",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "J510 (J5 METAL)",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "J530 (J5 PRO)",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "J600 (J6 2018)",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "J700 (J7 2015)",
+            "Preço": "R$ 45,00"
+        },
+        {
+            "Nome": "J710 (J7 METAL)",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "J701 (J7 NEO)",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "J730 (J7 PRO)",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "J810 (J8 2018)",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "M22 C/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "M30 / M31 / M21S S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M30 / M31 / M21S C/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "M30 / M31 / M21S VIVID C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "M32 C/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "M34 (5G) / A24 / A25 S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "M62 S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "M62 C/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "M62 VIVID C/ARO",
+            "Preço": "R$ 105,00"
+        }
+    ],
+    "Samsung_lcd": [
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "G530 / G531 / G532",
+            "Preço": "R$ 40,00"
+        },
+        {
+            "Nome": "G360 / G355",
+            "Preço": "R$ 30,00"
+        },
+        {
+            "Nome": "i9082",
+            "Preço": "R$ 30,00"
+        },
+        {
+            "Nome": "TOUCH SAMSUNG",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "G530",
+            "Preço": "R$ 10,00"
+        },
+        {
+            "Nome": "G532",
+            "Preço": "R$ 10,00"
+        },
+        {
+            "Nome": "G360",
+            "Preço": "R$ 10,00"
+        },
+        {
+            "Nome": "G355",
+            "Preço": "R$ 10,00"
+        },
+        {
+            "Nome": "G3502",
+            "Preço": "R$ 10,00"
+        },
+        {
+            "Nome": "i8552",
+            "Preço": "R$ 10,00"
+        },
+        {
+            "Nome": "i9082",
+            "Preço": "R$ 10,00"
+        },
+        {
+            "Nome": "DISPLAY SAMSUNG - TABLET COMPLETO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "T220",
+            "Preço": "R$ 150,00"
+        },
+        {
+            "Nome": "T225",
+            "Preço": "R$ 140,00"
+        },
+        {
+            "Nome": "T280",
+            "Preço": "R$ 120,00"
+        },
+        {
+            "Nome": "T285",
+            "Preço": "R$ 115,00"
+        },
+        {
+            "Nome": "T290",
+            "Preço": "R$ 120,00"
+        },
+        {
+            "Nome": "T295",
+            "Preço": "R$ 115,00"
+        },
+        {
+            "Nome": "T500 / T505",
+            "Preço": "R$ 220,00"
+        },
+        {
+            "Nome": "T510 / T515",
+            "Preço": "R$ 230,00"
+        },
+        {
+            "Nome": "T870 / T875",
+            "Preço": "R$ 350,00"
+        },
+        {
+            "Nome": "P610 / P613 / P615 / P617 / P619",
+            "Preço": "R$ 265,00"
+        }
+    ],
+    "zenfone": [
+        {
+            "Nome": "3 (5.5) (ZE552KL) S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "3 MAX (5.5) (ZC553KL) S/ARO",
+            "Preço": "R$ 110,00"
+        },
+        {
+            "Nome": "3 ZOOM (ZE553KL) GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 215,00"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "4 (ZE554KL) S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "ZE554KL GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "4 MAX (5.5) (ZC554KL) S/ARO",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "4 SELFIE (ZD553KL) S/ARO",
+            "Preço": "R$ 65,00"
+        },
+        {
+            "Nome": "4 SELFIE (ZB553KL) S/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "4 SELFIE PRO (ZD552KL) NACIONAL C/ARO",
+            "Preço": "R$ 200,00"
+        },
+        {
+            "Nome": "5 2019 (ZE620KL)(ZS620KL) S/ARO",
+            "Preço": "R$ 90,00"
+        },
+        {
+            "Nome": "5 SELFI (ZC600KL) S/ARO",
+            "Preço": "R$ 125,00"
+        },
+        {
+            "Nome": "MAX PRO M1 (ZB601KL)/(ZB602KL) S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "ZB601KL / ZB602 KL GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "MAX PRO M2 (ZB631KL) S/ARO",
+            "Preço": "R$ 75,00"
+        },
+        {
+            "Nome": "ZB631KL GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 115,00"
+        },
+        {
+            "Nome": "MAX SHOT (ZB634KL) S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "MAX SHOT (ZB634KL) C/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "ZB634KL GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": null,
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "DISPLAY LENOVO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "A7010 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "K5 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "K6 S/ARO",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "DISPLAY REALME",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "5i / 6i / C3 S/ARO",
+            "Preço": "R$ 55,00"
+        },
+        {
+            "Nome": "6 / 6S / 7 S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "7i S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "8i / 9i S/ARO",
+            "Preço": "R$ 85,00"
+        },
+        {
+            "Nome": "C11 2020 / C2 / C12 / C15 / C17 / C25 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "C11 2021 / C20 / C21 S/ARO",
+            "Preço": "R$ 50,00"
+        },
+        {
+            "Nome": "C21Y / C25Y S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "C30 / C33 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "C30s S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "C35 S/ARO",
+            "Preço": "R$ 60,00"
+        },
+        {
+            "Nome": "C35 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 95,00"
+        },
+        {
+            "Nome": "C51 / C53 / NOTE 50 S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "C53 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 100,00"
+        },
+        {
+            "Nome": "NOTE 50 GOLD PRIME (6 MESES DE GARAN)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "C55 S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "C55 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "Indisponível"
+        },
+        {
+            "Nome": "C61 / C63 S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "C67 S/ARO",
+            "Preço": "R$ 80,00"
+        },
+        {
+            "Nome": "C67 GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 130,00"
+        },
+        {
+            "Nome": "7 PRO / 8 PRO INCELL S/ARO",
+            "Preço": "R$ 70,00"
+        },
+        {
+            "Nome": "8 PRO GOLD PRIME (6 MESES DE GARANTIA)",
+            "Preço": "R$ 260,00"
+        }
+    ]
+}
