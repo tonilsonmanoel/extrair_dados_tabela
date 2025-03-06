@@ -3,206 +3,57 @@ import json
 
 class ExtrairDados:
 
-   
-    def extrairDadosLg():
-        # Caminho do arquivo Excel
-        file_path = "tabelas_template/DISPLAY_LG.xlsx"
+    
+    def extrairDadosTabelas():
 
-        # Carregar o arquivo sem cabeçalhos
-        df = pd.read_excel(file_path, header=None)
+        # Lista de arquivos Excel
+        file_paths = ["tabelas_template/DISPLAY_LG.xlsx", "tabelas_template/DISPLAY_Iphone.xlsx",
+                      "tabelas_template/DISPLAY_MOTOROLA.xlsx",
+                    "tabelas_template/DISPLAY_SAMSUNG-ORIGINAL_CHINA.xlsx",
+                    "tabelas_template/DISPLAY_XIAOMI.xlsx",
+                    "tabelas_template/Samsung_Incell.xlsx",
+                    "tabelas_template/Samsung_lcd.xlsx",
+                    "tabelas_template/zenfone.xlsx",]
 
-        # Remover a primeira linha (caso seja um título geral)
-        df = df.iloc[1:]
+        # Lista para armazenar os DataFrames
+        lista_df = []
 
-        # Renomear colunas
-        df.columns = ["Nome", "Preço"]
+        # Percorrer os arquivos e processar os dados
+        for file_path in file_paths:
+            # Carregar o arquivo sem cabeçalhos
+            df = pd.read_excel(file_path, header=None)
 
-        # Preencher valores vazios na coluna "Preço" com "Indisponível"
-        df["Preço"] = df["Preço"].astype(str).replace("nan", "Indisponível")
+            # Remover a primeira linha (caso seja um título geral)
+            df = df.iloc[1:]
 
-        # Resetar os índices
-        df.reset_index(drop=True, inplace=True)
-      
-        json_resultado = df.to_json(orient="records", force_ascii=False, indent=4)
+            # Renomear colunas
+            df.columns = ["Nome", "Preço"]
+
+            # Preencher valores vazios na coluna "Preço" com "Indisponível"
+            df["Preço"] = df["Preço"].astype(str).replace("nan", "Indisponível")
+
+            # Adicionar uma coluna "Fonte" para indicar de qual arquivo veio
+            df["Fonte"] = file_path.split("/")[-1]  # Pega apenas o nome do arquivo
+
+            # Resetar os índices
+            df.reset_index(drop=True, inplace=True)
+
+            # Adicionar o DataFrame à lista
+            lista_df.append(df)
+
+        # Concatenar todos os DataFrames em um único
+        df_final = pd.concat(lista_df, ignore_index=True)
+            
+        # Converter para JSON
+        json_resultado = df_final.to_json(orient="records", force_ascii=False, indent=4)
 
         # Salvar em um arquivo JSON
-        with open("dados_extraidos.json", "w", encoding="utf-8") as f:
+        with open("json_resultados/dados_combinados.json", "w", encoding="utf-8") as f:
             f.write(json_resultado)
-        with open("dados_extraidos.json", "r", encoding="utf-8") as f:
-            dataLG = json.load(f)
-        
-        return {"LG": dataLG}
 
-
-
-    def extrairDadosIphone():
-    
-        file_path2 = "tabelas_template/DISPLAY_IPHONE.xlsx"
-
-        df2 = pd.read_excel(file_path2, header=None)
-
-        df2 = df2.iloc[1:]
-       
-        df2.columns = ["Nome", "Preço"]
-
-        df2["Preço"] = df2["Preço"].astype(str).replace("nan", "Indisponível")
-
-        df2.reset_index(drop=True, inplace=True)
-
-        json_resultado2 = df2.to_json(orient="records", force_ascii=False, indent=4)
-
-        with open("dados_extraidosIphone.json", "w", encoding="utf-8") as f:
-            f.write(json_resultado2)
-       
-        with open("dados_extraidosIphone.json", "r", encoding="utf-8") as f:
-            dataIphone = json.load(f)
-
-        return {"IPHONE": dataIphone}
-
-    def extrairDadosMotorola():
-    
-        file_path2 = "tabelas_template/DISPLAY_MOTOROLA.xlsx"
-
-        df2 = pd.read_excel(file_path2, header=None)
-
-        df2 = df2.iloc[1:]
-
-        df2.columns = ["Nome", "Preço"]
-
-        df2["Preço"] = df2["Preço"].astype(str).replace("nan", "Indisponível")
-
-        df2.reset_index(drop=True, inplace=True)
-
-        json_resultado2 = df2.to_json(orient="records", force_ascii=False, indent=4)
-
-        with open("dados_extraidosMotorola.json", "w", encoding="utf-8") as f:
-            f.write(json_resultado2)
-
-        with open("dados_extraidosMotorola.json", "r", encoding="utf-8") as f:
+        # Carregar os dados JSON novamente (opcional)
+        with open("json_resultados/dados_combinados.json", "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        return {"MOROTOLA": data}
-    
-    def extrairDadosDisplaySamsungOriginalChina():
-
-        file_path2 = "tabelas_template/DISPLAY_SAMSUNG-ORIGINAL_CHINA.xlsx"
-
-        df2 = pd.read_excel(file_path2, header=None)
-
-        df2 = df2.iloc[1:]
-
-        df2.columns = ["Nome", "Preço"]
-
-        df2["Preço"] = df2["Preço"].astype(str).replace("nan", "Indisponível")
-
-        df2.reset_index(drop=True, inplace=True)
-
-        json_resultado2 = df2.to_json(orient="records", force_ascii=False, indent=4)
-
-        with open("json_resultados/dados_extraidos_DISPLAY_SAMSUNG-ORIGINAL_CHINA.json", "w", encoding="utf-8") as f:
-            f.write(json_resultado2)
-            print("Salvo na pasta")
-
-        with open("json_resultados/dados_extraidos_DISPLAY_SAMSUNG-ORIGINAL_CHINA.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-
-        return {"DISPLAY_SAMSUNG-ORIGINAL_CHINA": data}
-
-    def extrairDadosDisplayXiaomi():
-
-        file_path2 = "tabelas_template/DISPLAY_XIAOMI.xlsx"
-
-        df2 = pd.read_excel(file_path2, header=None)
-
-        df2 = df2.iloc[1:]
-
-        df2.columns = ["Nome", "Preço"]
-
-        df2["Preço"] = df2["Preço"].astype(str).replace("nan", "Indisponível")
-
-        df2.reset_index(drop=True, inplace=True)
-
-        json_resultado2 = df2.to_json(orient="records", force_ascii=False, indent=4)
-
-        with open("dados_extraidos_DISPLAY_XIAOMI.json", "w", encoding="utf-8") as f:
-            f.write(json_resultado2)
-
-        with open("dados_extraidos_DISPLAY_XIAOMI.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-
-        return {"DISPLAY_XIAOMI": data}
-    
-    def extrairDadosSamsungIncell():
-
-        file_path2 = "tabelas_template/Samsung_Incell.xlsx"
-
-        df2 = pd.read_excel(file_path2, header=None)
-
-        df2 = df2.iloc[1:]
-
-        df2.columns = ["Nome", "Preço"]
-
-        df2["Preço"] = df2["Preço"].astype(str).replace("nan", "Indisponível")
-
-        df2.reset_index(drop=True, inplace=True)
-
-        json_resultado2 = df2.to_json(orient="records", force_ascii=False, indent=4)
-
-        with open("dados_extraidos_Samsung_Incell.json", "w", encoding="utf-8") as f:
-            f.write(json_resultado2)
-
-        with open("dados_extraidos_Samsung_Incell.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-
-        return {"Samsung_Incell": data}
-    
-    def extrairDadosSamsungLcd():
-        
-        file_path2 = "tabelas_template/Samsung_lcd.xlsx"
-
-        df2 = pd.read_excel(file_path2, header=None)
-
-        df2 = df2.iloc[1:]
-
-        df2.columns = ["Nome", "Preço"]
-
-        df2["Preço"] = df2["Preço"].astype(str).replace("nan", "Indisponível")
-
-        df2.reset_index(drop=True, inplace=True)
-
-        json_resultado2 = df2.to_json(orient="records", force_ascii=False, indent=4)
-
-        with open("dados_extraidos_Samsung_lcd.json", "w", encoding="utf-8") as f:
-            f.write(json_resultado2)
-
-        with open("dados_extraidos_Samsung_lcd.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        return {"Samsung_lcd": data}
-
-    def extrairDadoszenfone():
-        
-        file_path2 = "tabelas_template/zenfone.xlsx"
-
-        df2 = pd.read_excel(file_path2, header=None)
-
-        df2 = df2.iloc[1:]
-
-        df2.columns = ["Nome", "Preço"]
-
-        df2["Preço"] = df2["Preço"].astype(str).replace("nan", "Indisponível")
-
-        df2.reset_index(drop=True, inplace=True)
-
-        json_resultado2 = df2.to_json(orient="records", force_ascii=False, indent=4)
-
-        with open("dados_extraidos_zenfone.json", "w", encoding="utf-8") as f:
-            f.write(json_resultado2)
-
-        with open("dados_extraidos_zenfone.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        return {"zenfone": data}
+        # Retornar os dados combinados
+        print(data)
