@@ -7,12 +7,13 @@ class ExtrairDados:
     def extrairDadosTabelas():
 
         # Lista de arquivos Excel
-        file_paths = ["tabelas_template/DISPLAY_LG.xlsx", "tabelas_template/DISPLAY_Iphone.xlsx",
-                      "tabelas_template/DISPLAY_MOTOROLA.xlsx",
+        file_paths = ["tabelas_template/Samsung_Incell.xlsx","tabelas_template/Samsung_lcd.xlsx",
+                     
                     "tabelas_template/DISPLAY_SAMSUNG-ORIGINAL_CHINA.xlsx",
-                    "tabelas_template/DISPLAY_XIAOMI.xlsx",
-                    "tabelas_template/Samsung_Incell.xlsx",
-                    "tabelas_template/Samsung_lcd.xlsx",
+                    "tabelas_template/DISPLAY_XIAOMI.xlsx", "tabelas_template/DISPLAY_MOTOROLA.xlsx"
+                    ,"tabelas_template/DISPLAY_LG.xlsx", "tabelas_template/DISPLAY_Iphone.xlsx",
+                    
+                    
                     "tabelas_template/zenfone.xlsx",]
 
         # Lista para armazenar os DataFrames
