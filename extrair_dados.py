@@ -7,14 +7,18 @@ class ExtrairDados:
     def extrairDadosTabelas():
 
         # Lista de arquivos Excel
-        file_paths = ["tabelas_template/Samsung_Incell.xlsx","tabelas_template/Samsung_lcd.xlsx",
-                     
-                    "tabelas_template/DISPLAY_SAMSUNG-ORIGINAL_CHINA.xlsx",
-                    "tabelas_template/DISPLAY_XIAOMI.xlsx", "tabelas_template/DISPLAY_MOTOROLA.xlsx"
-                    ,"tabelas_template/DISPLAY_LG.xlsx", "tabelas_template/DISPLAY_Iphone.xlsx",
-                    
-                    
-                    "tabelas_template/zenfone.xlsx",]
+        file_paths = [ "tabelas_template/DISPLAY SAMSUNG ORIGINAL CHINA.xlsx",
+                      "tabelas_template/DISPLAY SAMSUNG - INCELL.xlsx",
+                     "tabelas_template/LCD SAMSUNG.xlsx",
+                    "tabelas_template/DISPLAY SAMSUNG - TABLET COMPLETO.xlsx", 
+                    "tabelas_template/TOUCH SAMSUNG.xlsx",
+                    "tabelas_template/DISPLAY XIAOMI.xlsx",
+                    "tabelas_template/DISPLAY MOTOROLA.xlsx",
+                    "tabelas_template/DISPLAY LG.xlsx",
+                    "tabelas_template/DISPLAY IPHONE.xlsx",
+                    "tabelas_template/DISPLAY REALME.xlsx", 
+                    "tabelas_template/DISPLAY LENOVO.xlsx",
+                    "tabelas_template/DISPLAY ZENFONE.xlsx",]
 
         # Lista para armazenar os DataFrames
         lista_df = []
@@ -34,7 +38,7 @@ class ExtrairDados:
             df["Preço"] = df["Preço"].astype(str).replace("nan", "Indisponível")
 
             # Adicionar uma coluna "Fonte" para indicar de qual arquivo veio
-            df["Fonte"] = file_path.split("/")[-1]  # Pega apenas o nome do arquivo
+            df["Categoria"] = file_path.split("/")[-1].replace(".xlsx","")  # Pega apenas o nome do arquivo
 
             # Resetar os índices
             df.reset_index(drop=True, inplace=True)
